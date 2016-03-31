@@ -1,0 +1,14 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="Ubuntu Light" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="EDITOR_TAB_LIMIT" value="100" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="EDITOR_TAB_PLACEMENT" value="2" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+  </component>
+</application>
