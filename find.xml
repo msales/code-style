@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '/home/pph/projects/meeebu/optimizer-ui/src/Meeebu/OptimizerBundle/DelayQueue/DelayQueue.php'" />
-    <option name="defaultScopeName" value="File '/home/pph/projects/meeebu/optimizer-ui/src/Meeebu/OptimizerBundle/DelayQueue/DelayQueue.php'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/home/pph/projects/meeebu/optimizer-ui/src/Meeebu/OptimizerBundle/DelayQueue/DelayQueue.php'" />
-  </component>
-</application>
