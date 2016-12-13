@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<ruleset name="msales base standard">
+    <description>The msales base coding standard.</description>
+
+    <rule ref="PSR2"/>
+
+    <rule ref="../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Objects/ObjectInstantiationSniff.php"/>
+    <rule ref="../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Arrays/MultiLineArrayCommaSniff.php"/>
+
+    <rule ref="Squiz.Arrays.ArrayBracketSpacing"/>
+    <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
+    <rule ref="Squiz.Strings.DoubleQuoteUsage"/>
+    <rule ref="Squiz.Strings.ConcatenationSpacing">
+        <properties>
+            <property name="spacing" value="1"/>
+        </properties>
+    </rule>
+
+    <rule ref="PEAR.Commenting.InlineComment"/>
+
+    <!-- Not included -->
+    <!-- Single blank line before namespace -->
+    <!-- No empty phpdoc -->
+    <!-- No useless else -->
+    <!-- Method separation -->
+</ruleset>
