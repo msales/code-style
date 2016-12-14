@@ -4,8 +4,8 @@
 
     <rule ref="PSR2"/>
 
-    <rule ref="../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Objects/ObjectInstantiationSniff.php"/>
-    <rule ref="../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Arrays/MultiLineArrayCommaSniff.php"/>
+    <rule ref="../../../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Objects/ObjectInstantiationSniff.php"/>
+    <rule ref="../../../vendor/escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Arrays/MultiLineArrayCommaSniff.php"/>
 
     <rule ref="Squiz.Arrays.ArrayBracketSpacing"/>
     <rule ref="Generic.Arrays.DisallowLongArraySyntax"/>
