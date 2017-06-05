@@ -31,7 +31,10 @@
     <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Functions"/>
     <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2/Sniffs/NamingConventions"/>
     <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2/Sniffs/Scope"/>
-    <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2/Sniffs/WhiteSpace"/>
+    <rule ref="../../../escapestudios/symfony2-coding-standard/Symfony2/Sniffs/WhiteSpace">
+        <exclude name="Symfony2.WhiteSpace.AssignmentSpacing.Invalid"/>
+    </rule>
+    <rule ref="../../../msales/code-style/codesniffer/Msales/Sniffs/WhiteSpace"/>
 
     <rule ref="Generic.ControlStructures.InlineControlStructure"/>
     <rule ref="Generic.Formatting.SpaceAfterCast"/>
